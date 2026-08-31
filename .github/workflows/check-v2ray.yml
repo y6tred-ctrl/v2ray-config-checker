@@ -3,15 +3,19 @@ name: V2Ray Config Checker
 on:
   schedule:
     - cron: '0 * * * *'  # Каждый час
-  workflow_dispatch:  # Возможность запустить вручную
+  workflow_dispatch:  # Вручной запуск
+
+permissions:
+  contents: write
 
 jobs:
   check-configs:
     runs-on: ubuntu-latest
+    continue-on-error: true
     
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
       
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -19,21 +23,17 @@ jobs:
           python-version: '3.11'
       
       - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests pyyaml
+        run: pip install requests
       
-      - name: Run config checker
+      - name: Run checker
         run: python check_configs.py
+        timeout-minutes: 10
       
-      - name: Commit and push results
+      - name: Commit results
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "🔄 Update working configs - $(date +'%Y-%m-%d %H:%M:%S')"
-            git push
-          fi
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add *.txt *.json *.md
+          git diff --cached --quiet || git commit -m "🔄 $(date -u)"
+          git push || echo "Push failed"
+        continue-on-error: true
