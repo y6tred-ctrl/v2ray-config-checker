@@ -1,0 +1,14 @@
+# Список источников V2Ray конфигов
+# Добавляй новые в формате: owner/repo
+# Строки начинающиеся с # - это комментарии и не учитываются
+
+# Основные источники
+V2RAYCONFIGSPOOL/V2RAY_SUB
+ebrasha/free-v2ray-public-list
+barry-far/V2ray-Config
+MohammadBahemmat/V2ray-Collector
+MatinGhanbari/v2ray-configs
+Epodonios/v2ray-configs
+miladtahanian/V2RayCFGDumper
+SoliSpirit/SolVPN
+cook369/proxy-collect
