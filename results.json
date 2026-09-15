@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-15T02:36:02.761127",
+  "timestamp": "2026-09-15T08:12:29.136165",
   "total_repos": 9,
   "working_repos": 9,
   "total_configs": 0,
@@ -8,20 +8,20 @@
     {
       "repo": "V2RAYCONFIGSPOOL/V2RAY_SUB",
       "url": "https://github.com/V2RAYCONFIGSPOOL/V2RAY_SUB",
-      "stars": 268,
-      "updated": "2026-09-15T02:31:33Z"
+      "stars": 269,
+      "updated": "2026-09-15T08:10:54Z"
     },
     {
       "repo": "ebrasha/free-v2ray-public-list",
       "url": "https://github.com/ebrasha/free-v2ray-public-list",
-      "stars": 1292,
-      "updated": "2026-09-15T02:30:13Z"
+      "stars": 1294,
+      "updated": "2026-09-15T08:12:20Z"
     },
     {
       "repo": "barry-far/V2ray-Config",
       "url": "https://github.com/barry-far/V2ray-Config",
-      "stars": 2429,
-      "updated": "2026-09-15T01:48:04Z"
+      "stars": 2430,
+      "updated": "2026-09-15T06:51:30Z"
     },
     {
       "repo": "MohammadBahemmat/V2ray-Collector",
@@ -33,31 +33,31 @@
       "repo": "MatinGhanbari/v2ray-configs",
       "url": "https://github.com/MatinGhanbari/v2ray-configs",
       "stars": 658,
-      "updated": "2026-09-15T00:17:19Z"
+      "updated": "2026-09-15T07:11:16Z"
     },
     {
       "repo": "Epodonios/v2ray-configs",
       "url": "https://github.com/Epodonios/v2ray-configs",
       "stars": 3243,
-      "updated": "2026-09-15T01:13:20Z"
+      "updated": "2026-09-15T06:46:56Z"
     },
     {
       "repo": "miladtahanian/V2RayCFGDumper",
       "url": "https://github.com/miladtahanian/V2RayCFGDumper",
       "stars": 224,
-      "updated": "2026-09-15T01:54:09Z"
+      "updated": "2026-09-15T07:11:41Z"
     },
     {
       "repo": "SoliSpirit/SolVPN",
       "url": "https://github.com/SoliSpirit/SolVPN",
       "stars": 46,
-      "updated": "2026-09-15T02:32:16Z"
+      "updated": "2026-09-15T08:02:26Z"
     },
     {
       "repo": "cook369/proxy-collect",
       "url": "https://github.com/cook369/proxy-collect",
       "stars": 9,
-      "updated": "2026-09-14T23:00:47Z"
+      "updated": "2026-09-15T06:00:11Z"
     }
   ]
 }
