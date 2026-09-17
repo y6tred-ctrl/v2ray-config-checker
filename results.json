@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-17T02:34:32.516533",
+  "timestamp": "2026-09-17T08:12:30.426597",
   "total_repos": 9,
   "working_repos": 9,
   "total_configs": 0,
@@ -9,19 +9,19 @@
       "repo": "V2RAYCONFIGSPOOL/V2RAY_SUB",
       "url": "https://github.com/V2RAYCONFIGSPOOL/V2RAY_SUB",
       "stars": 270,
-      "updated": "2026-09-17T02:33:39Z"
+      "updated": "2026-09-17T08:12:18Z"
     },
     {
       "repo": "ebrasha/free-v2ray-public-list",
       "url": "https://github.com/ebrasha/free-v2ray-public-list",
       "stars": 1301,
-      "updated": "2026-09-17T02:30:12Z"
+      "updated": "2026-09-17T08:12:20Z"
     },
     {
       "repo": "barry-far/V2ray-Config",
       "url": "https://github.com/barry-far/V2ray-Config",
-      "stars": 2436,
-      "updated": "2026-09-17T00:38:15Z"
+      "stars": 2438,
+      "updated": "2026-09-17T05:30:30Z"
     },
     {
       "repo": "MohammadBahemmat/V2ray-Collector",
@@ -33,31 +33,31 @@
       "repo": "MatinGhanbari/v2ray-configs",
       "url": "https://github.com/MatinGhanbari/v2ray-configs",
       "stars": 659,
-      "updated": "2026-09-16T22:39:47Z"
+      "updated": "2026-09-17T03:21:10Z"
     },
     {
       "repo": "Epodonios/v2ray-configs",
       "url": "https://github.com/Epodonios/v2ray-configs",
-      "stars": 3243,
-      "updated": "2026-09-17T00:51:21Z"
+      "stars": 3244,
+      "updated": "2026-09-17T05:43:26Z"
     },
     {
       "repo": "miladtahanian/V2RayCFGDumper",
       "url": "https://github.com/miladtahanian/V2RayCFGDumper",
       "stars": 225,
-      "updated": "2026-09-17T00:46:05Z"
+      "updated": "2026-09-17T05:44:23Z"
     },
     {
       "repo": "SoliSpirit/SolVPN",
       "url": "https://github.com/SoliSpirit/SolVPN",
       "stars": 47,
-      "updated": "2026-09-17T02:32:15Z"
+      "updated": "2026-09-17T08:02:26Z"
     },
     {
       "repo": "cook369/proxy-collect",
       "url": "https://github.com/cook369/proxy-collect",
       "stars": 9,
-      "updated": "2026-09-16T22:50:27Z"
+      "updated": "2026-09-17T05:53:10Z"
     }
   ]
 }
