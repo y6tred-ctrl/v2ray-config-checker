@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-21T17:29:16.383153",
+  "timestamp": "2026-09-21T21:26:59.642455",
   "total_repos": 9,
   "working_repos": 9,
   "total_configs": 0,
@@ -9,25 +9,25 @@
       "repo": "V2RAYCONFIGSPOOL/V2RAY_SUB",
       "url": "https://github.com/V2RAYCONFIGSPOOL/V2RAY_SUB",
       "stars": 270,
-      "updated": "2026-09-21T17:27:35Z"
+      "updated": "2026-09-21T21:26:25Z"
     },
     {
       "repo": "ebrasha/free-v2ray-public-list",
       "url": "https://github.com/ebrasha/free-v2ray-public-list",
       "stars": 1307,
-      "updated": "2026-09-21T17:26:20Z"
+      "updated": "2026-09-21T21:26:18Z"
     },
     {
       "repo": "barry-far/V2ray-Config",
       "url": "https://github.com/barry-far/V2ray-Config",
-      "stars": 2454,
-      "updated": "2026-09-21T12:03:40Z"
+      "stars": 2455,
+      "updated": "2026-09-21T18:07:26Z"
     },
     {
       "repo": "MohammadBahemmat/V2ray-Collector",
       "url": "https://github.com/MohammadBahemmat/V2ray-Collector",
       "stars": 83,
-      "updated": "2026-09-21T17:24:22Z"
+      "updated": "2026-09-21T21:18:24Z"
     },
     {
       "repo": "MatinGhanbari/v2ray-configs",
@@ -39,25 +39,25 @@
       "repo": "Epodonios/v2ray-configs",
       "url": "https://github.com/Epodonios/v2ray-configs",
       "stars": 3247,
-      "updated": "2026-09-21T14:33:17Z"
+      "updated": "2026-09-21T19:48:20Z"
     },
     {
       "repo": "miladtahanian/V2RayCFGDumper",
       "url": "https://github.com/miladtahanian/V2RayCFGDumper",
       "stars": 226,
-      "updated": "2026-09-21T13:08:39Z"
+      "updated": "2026-09-21T18:41:49Z"
     },
     {
       "repo": "SoliSpirit/SolVPN",
       "url": "https://github.com/SoliSpirit/SolVPN",
       "stars": 47,
-      "updated": "2026-09-21T17:02:34Z"
+      "updated": "2026-09-21T21:02:29Z"
     },
     {
       "repo": "cook369/proxy-collect",
       "url": "https://github.com/cook369/proxy-collect",
       "stars": 9,
-      "updated": "2026-09-21T12:24:51Z"
+      "updated": "2026-09-21T19:16:16Z"
     }
   ]
 }
