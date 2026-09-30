@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-30T14:26:27.284478",
+  "timestamp": "2026-09-30T19:44:42.323893",
   "total_repos": 9,
   "working_repos": 9,
   "total_configs": 0,
@@ -8,56 +8,56 @@
     {
       "repo": "V2RAYCONFIGSPOOL/V2RAY_SUB",
       "url": "https://github.com/V2RAYCONFIGSPOOL/V2RAY_SUB",
-      "stars": 270,
-      "updated": "2026-09-30T14:25:33Z"
+      "stars": 271,
+      "updated": "2026-09-30T19:44:20Z"
     },
     {
       "repo": "ebrasha/free-v2ray-public-list",
       "url": "https://github.com/ebrasha/free-v2ray-public-list",
-      "stars": 1326,
-      "updated": "2026-09-30T14:26:19Z"
+      "stars": 1327,
+      "updated": "2026-09-30T19:44:20Z"
     },
     {
       "repo": "barry-far/V2ray-Config",
       "url": "https://github.com/barry-far/V2ray-Config",
       "stars": 2480,
-      "updated": "2026-09-30T08:58:50Z"
+      "updated": "2026-09-30T15:43:13Z"
     },
     {
       "repo": "MohammadBahemmat/V2ray-Collector",
       "url": "https://github.com/MohammadBahemmat/V2ray-Collector",
       "stars": 84,
-      "updated": "2026-09-28T02:15:22Z"
+      "updated": "2026-09-30T15:31:06Z"
     },
     {
       "repo": "MatinGhanbari/v2ray-configs",
       "url": "https://github.com/MatinGhanbari/v2ray-configs",
       "stars": 672,
-      "updated": "2026-09-30T07:56:23Z"
+      "updated": "2026-09-30T14:36:36Z"
     },
     {
       "repo": "Epodonios/v2ray-configs",
       "url": "https://github.com/Epodonios/v2ray-configs",
       "stars": 3258,
-      "updated": "2026-09-30T11:32:45Z"
+      "updated": "2026-09-30T17:07:00Z"
     },
     {
       "repo": "miladtahanian/V2RayCFGDumper",
       "url": "https://github.com/miladtahanian/V2RayCFGDumper",
       "stars": 227,
-      "updated": "2026-09-30T13:16:41Z"
+      "updated": "2026-09-30T18:46:51Z"
     },
     {
       "repo": "SoliSpirit/SolVPN",
       "url": "https://github.com/SoliSpirit/SolVPN",
       "stars": 50,
-      "updated": "2026-09-30T14:03:06Z"
+      "updated": "2026-09-30T19:32:45Z"
     },
     {
       "repo": "cook369/proxy-collect",
       "url": "https://github.com/cook369/proxy-collect",
       "stars": 9,
-      "updated": "2026-09-30T12:18:17Z"
+      "updated": "2026-09-30T19:02:43Z"
     }
   ]
 }
