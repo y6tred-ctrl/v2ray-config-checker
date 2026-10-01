@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-01T03:14:47.525637",
+  "timestamp": "2026-10-01T10:35:27.664956",
   "total_repos": 9,
   "working_repos": 9,
   "total_configs": 0,
@@ -9,19 +9,19 @@
       "repo": "V2RAYCONFIGSPOOL/V2RAY_SUB",
       "url": "https://github.com/V2RAYCONFIGSPOOL/V2RAY_SUB",
       "stars": 271,
-      "updated": "2026-10-01T03:12:33Z"
+      "updated": "2026-10-01T10:34:20Z"
     },
     {
       "repo": "ebrasha/free-v2ray-public-list",
       "url": "https://github.com/ebrasha/free-v2ray-public-list",
-      "stars": 1328,
-      "updated": "2026-10-01T03:12:19Z"
+      "stars": 1330,
+      "updated": "2026-10-01T10:30:12Z"
     },
     {
       "repo": "barry-far/V2ray-Config",
       "url": "https://github.com/barry-far/V2ray-Config",
-      "stars": 2481,
-      "updated": "2026-10-01T00:10:28Z"
+      "stars": 2482,
+      "updated": "2026-10-01T05:58:15Z"
     },
     {
       "repo": "MohammadBahemmat/V2ray-Collector",
@@ -33,31 +33,31 @@
       "repo": "MatinGhanbari/v2ray-configs",
       "url": "https://github.com/MatinGhanbari/v2ray-configs",
       "stars": 673,
-      "updated": "2026-10-01T01:04:05Z"
+      "updated": "2026-10-01T08:17:35Z"
     },
     {
       "repo": "Epodonios/v2ray-configs",
       "url": "https://github.com/Epodonios/v2ray-configs",
-      "stars": 3259,
-      "updated": "2026-10-01T01:37:24Z"
+      "stars": 3262,
+      "updated": "2026-10-01T06:45:45Z"
     },
     {
       "repo": "miladtahanian/V2RayCFGDumper",
       "url": "https://github.com/miladtahanian/V2RayCFGDumper",
       "stars": 227,
-      "updated": "2026-10-01T01:45:37Z"
+      "updated": "2026-10-01T08:12:12Z"
     },
     {
       "repo": "SoliSpirit/SolVPN",
       "url": "https://github.com/SoliSpirit/SolVPN",
-      "stars": 50,
-      "updated": "2026-10-01T03:02:36Z"
+      "stars": 51,
+      "updated": "2026-10-01T10:32:38Z"
     },
     {
       "repo": "cook369/proxy-collect",
       "url": "https://github.com/cook369/proxy-collect",
       "stars": 9,
-      "updated": "2026-09-30T23:41:40Z"
+      "updated": "2026-10-01T07:02:35Z"
     }
   ]
 }
