@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-04T06:32:16.330609",
+  "timestamp": "2026-10-04T12:57:47.636923",
   "total_repos": 9,
   "working_repos": 9,
   "total_configs": 0,
@@ -14,50 +14,50 @@
     {
       "repo": "ebrasha/free-v2ray-public-list",
       "url": "https://github.com/ebrasha/free-v2ray-public-list",
-      "stars": 1339,
-      "updated": "2026-10-04T06:30:13Z"
+      "stars": 1340,
+      "updated": "2026-10-04T12:44:18Z"
     },
     {
       "repo": "barry-far/V2ray-Config",
       "url": "https://github.com/barry-far/V2ray-Config",
-      "stars": 2493,
-      "updated": "2026-10-04T02:43:53Z"
+      "stars": 2495,
+      "updated": "2026-10-04T08:52:10Z"
     },
     {
       "repo": "MohammadBahemmat/V2ray-Collector",
       "url": "https://github.com/MohammadBahemmat/V2ray-Collector",
       "stars": 84,
-      "updated": "2026-10-04T06:25:27Z"
+      "updated": "2026-10-04T12:54:55Z"
     },
     {
       "repo": "MatinGhanbari/v2ray-configs",
       "url": "https://github.com/MatinGhanbari/v2ray-configs",
       "stars": 675,
-      "updated": "2026-10-04T00:21:49Z"
+      "updated": "2026-10-04T07:45:12Z"
     },
     {
       "repo": "Epodonios/v2ray-configs",
       "url": "https://github.com/Epodonios/v2ray-configs",
-      "stars": 3267,
-      "updated": "2026-10-04T06:13:33Z"
+      "stars": 3269,
+      "updated": "2026-10-04T12:43:26Z"
     },
     {
       "repo": "miladtahanian/V2RayCFGDumper",
       "url": "https://github.com/miladtahanian/V2RayCFGDumper",
       "stars": 229,
-      "updated": "2026-10-04T03:56:20Z"
+      "updated": "2026-10-04T10:24:54Z"
     },
     {
       "repo": "SoliSpirit/SolVPN",
       "url": "https://github.com/SoliSpirit/SolVPN",
       "stars": 53,
-      "updated": "2026-10-04T06:32:13Z"
+      "updated": "2026-10-04T12:32:30Z"
     },
     {
       "repo": "cook369/proxy-collect",
       "url": "https://github.com/cook369/proxy-collect",
       "stars": 9,
-      "updated": "2026-10-04T05:09:32Z"
+      "updated": "2026-10-04T12:05:51Z"
     }
   ]
 }
