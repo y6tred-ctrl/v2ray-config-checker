@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-09T07:00:06.941976",
+  "timestamp": "2026-10-09T14:15:20.109776",
   "total_repos": 9,
   "working_repos": 9,
   "total_configs": 0,
@@ -14,50 +14,50 @@
     {
       "repo": "ebrasha/free-v2ray-public-list",
       "url": "https://github.com/ebrasha/free-v2ray-public-list",
-      "stars": 1361,
-      "updated": "2026-10-09T06:58:17Z"
+      "stars": 1362,
+      "updated": "2026-10-09T14:12:17Z"
     },
     {
       "repo": "barry-far/V2ray-Config",
       "url": "https://github.com/barry-far/V2ray-Config",
-      "stars": 2510,
-      "updated": "2026-10-09T01:51:24Z"
+      "stars": 2509,
+      "updated": "2026-10-09T08:07:35Z"
     },
     {
       "repo": "MohammadBahemmat/V2ray-Collector",
       "url": "https://github.com/MohammadBahemmat/V2ray-Collector",
       "stars": 84,
-      "updated": "2026-10-09T06:53:51Z"
+      "updated": "2026-10-09T14:06:42Z"
     },
     {
       "repo": "MatinGhanbari/v2ray-configs",
       "url": "https://github.com/MatinGhanbari/v2ray-configs",
-      "stars": 681,
-      "updated": "2026-10-09T00:08:40Z"
+      "stars": 682,
+      "updated": "2026-10-09T08:28:04Z"
     },
     {
       "repo": "Epodonios/v2ray-configs",
       "url": "https://github.com/Epodonios/v2ray-configs",
-      "stars": 3279,
-      "updated": "2026-10-09T00:54:33Z"
+      "stars": 3281,
+      "updated": "2026-10-09T14:13:50Z"
     },
     {
       "repo": "miladtahanian/V2RayCFGDumper",
       "url": "https://github.com/miladtahanian/V2RayCFGDumper",
       "stars": 232,
-      "updated": "2026-10-09T01:41:01Z"
+      "updated": "2026-10-09T08:22:50Z"
     },
     {
       "repo": "SoliSpirit/SolVPN",
       "url": "https://github.com/SoliSpirit/SolVPN",
       "stars": 54,
-      "updated": "2026-10-09T07:00:05Z"
+      "updated": "2026-10-09T14:02:49Z"
     },
     {
       "repo": "cook369/proxy-collect",
       "url": "https://github.com/cook369/proxy-collect",
       "stars": 9,
-      "updated": "2026-10-09T05:23:29Z"
+      "updated": "2026-10-09T12:58:14Z"
     }
   ]
 }
