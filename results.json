@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-22T17:45:21.524157",
+  "timestamp": "2026-10-22T20:59:56.000020",
   "total_repos": 9,
   "working_repos": 7,
   "total_configs": 0,
@@ -8,44 +8,44 @@
     {
       "repo": "barry-far/V2ray-Config",
       "url": "https://github.com/barry-far/V2ray-Config",
-      "stars": 2567,
-      "updated": "2026-10-22T17:39:04Z"
+      "stars": 2568,
+      "updated": "2026-10-22T20:51:19Z"
     },
     {
       "repo": "MohammadBahemmat/V2ray-Collector",
       "url": "https://github.com/MohammadBahemmat/V2ray-Collector",
       "stars": 86,
-      "updated": "2026-10-22T17:31:26Z"
+      "updated": "2026-10-22T20:45:51Z"
     },
     {
       "repo": "MatinGhanbari/v2ray-configs",
       "url": "https://github.com/MatinGhanbari/v2ray-configs",
       "stars": 687,
-      "updated": "2026-10-22T14:52:33Z"
+      "updated": "2026-10-22T19:44:49Z"
     },
     {
       "repo": "Epodonios/v2ray-configs",
       "url": "https://github.com/Epodonios/v2ray-configs",
-      "stars": 3303,
-      "updated": "2026-10-22T17:26:40Z"
+      "stars": 3304,
+      "updated": "2026-10-22T20:49:04Z"
     },
     {
       "repo": "miladtahanian/V2RayCFGDumper",
       "url": "https://github.com/miladtahanian/V2RayCFGDumper",
       "stars": 233,
-      "updated": "2026-10-22T16:29:47Z"
+      "updated": "2026-10-22T20:22:51Z"
     },
     {
       "repo": "SoliSpirit/SolVPN",
       "url": "https://github.com/SoliSpirit/SolVPN",
       "stars": 55,
-      "updated": "2026-10-22T17:33:47Z"
+      "updated": "2026-10-22T20:33:12Z"
     },
     {
       "repo": "cook369/proxy-collect",
       "url": "https://github.com/cook369/proxy-collect",
       "stars": 9,
-      "updated": "2026-10-22T15:03:56Z"
+      "updated": "2026-10-22T19:58:13Z"
     }
   ]
 }
